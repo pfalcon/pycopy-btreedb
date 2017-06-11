@@ -3,7 +3,7 @@ import optimize_upip
 
 
 setup(name='micropython-btreedb',
-      version='0.2',
+      version='0.3',
       description="""Very simple, btree-based ORM (Object-Relational
 Mapper) for MicroPython.
 """,
