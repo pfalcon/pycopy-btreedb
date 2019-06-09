@@ -3,9 +3,9 @@ import sdist_upip
 
 
 setup(name='micropython-btreedb',
-      version='0.3.1',
-      description="""Very simple, btree-based ORM (Object-Relational \
-Mapper) for MicroPython.
+      version='0.3.2',
+      description="""Very simple ORM (Object-Relational \
+Mapper) for MicroPython's 'btree' module.
 """,
       url='https://github.com/pfalcon/micropython-btreedb',
       author='Paul Sokolovsky',
