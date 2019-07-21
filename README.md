@@ -1,5 +1,5 @@
-`btreedb` is a simple ORM-like wrapper for MicroPython's
-[btree](http://docs.micropython.org/en/latest/unix/library/btree.html)
+`btreedb` is a simple ORM-like wrapper for Pycopy's
+[btree](https://pycopy.readthedocs.io/en/latest/library/btree.html)
 module.
 
 Note that it's recommended to use the `btree` module directly, but if
