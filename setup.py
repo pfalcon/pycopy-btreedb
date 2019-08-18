@@ -3,7 +3,7 @@ import sdist_upip
 
 
 setup(name='pycopy-btreedb',
-      version='0.4',
+      version='0.4.1',
       description="""Very simple ORM (Object-Relational \
 Mapper) for Pycopy's 'btree' module.
 """,
