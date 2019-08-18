@@ -26,6 +26,10 @@ class DB:
 
 class Model:
 
+    __fields__ = None
+    Row = None
+    row_buf = None
+
     @classmethod
     def create_table(cls, fail_silently=False):
         cls.__fields__ = tuple(cls.__schema__.keys())
